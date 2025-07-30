@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.bin
+*.pdf
+data/vectorstore/
+data/*.pdf
+*.log
+.env
+.DS_Store

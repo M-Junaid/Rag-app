@@ -1,0 +1,11 @@
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+fastapi
+uvicorn
+python-dotenv
+pydantic-settings
+unstructured[pdf,docx]
+tiktoken
